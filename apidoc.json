@@ -1,0 +1,8 @@
+{
+  "name": "Gebeya API",
+  "version": "1.0.0",
+  "description": "Gebeya HTTP API service",
+  "title": "API documentation",
+  "doc-url": "docs.gebeya.com/",
+  "url": "api.gebeya.com"
+}
